@@ -2,5 +2,5 @@
 
 階乗を表示するだけのアプリとりなります。  
 
-![](https://i.imgur.com/QFj9KOr.png)
+![](https://i.imgur.com/QFj9KOr.png)  
 こんなやつ。画像以上の機能はありません。
